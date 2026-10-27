@@ -128,6 +128,3 @@ Evaluation metrics may include:
 
 Ishika Sahare   Isha Bhangre   Madhavi Katekhaye
 
-## 📄 License
-
-Add an appropriate license after confirming the licenses of the code, datasets, and other assets used in this project.
